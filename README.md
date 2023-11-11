@@ -7,6 +7,6 @@
 * ...
 
 ### Screen shot
-![JUnit width TDD] (https://github.com/weird-do/math-util/blob/main/images/math-util-intro.png)
+![JUnit width TDD](https://github.com/weird-do/math-util/blob/main/images/math-util-intro.png)
 
 © 2023 way
